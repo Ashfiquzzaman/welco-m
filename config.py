@@ -1,0 +1,2 @@
+BOTNAME = "@Programming_Test_Snbot"
+TOKEN = "1531599220:AAGutXhEtYfVhMHJBHHIi0wywWmy13Y_M2A"
